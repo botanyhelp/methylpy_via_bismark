@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to methylpy_via_bismark\n\n\nAbout\n\n\nThe bismark pipeline and the methylpy pipeline both create the same kind of methylation data but in a slightly different format.  methylpy_via_bismark can help convert bismark data to methylpy's \nallc\n format. \n\n\nRequirements\n\n\n\n\nawk\n\n\nmethylation counts file obtained from coverage2cytosine",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-methylpy_via_bismark",
+            "text": "",
+            "title": "Welcome to methylpy_via_bismark"
+        },
+        {
+            "location": "/#about",
+            "text": "The bismark pipeline and the methylpy pipeline both create the same kind of methylation data but in a slightly different format.  methylpy_via_bismark can help convert bismark data to methylpy's  allc  format.",
+            "title": "About"
+        },
+        {
+            "location": "/#requirements",
+            "text": "awk  methylation counts file obtained from coverage2cytosine",
+            "title": "Requirements"
+        }
+    ]
+}
